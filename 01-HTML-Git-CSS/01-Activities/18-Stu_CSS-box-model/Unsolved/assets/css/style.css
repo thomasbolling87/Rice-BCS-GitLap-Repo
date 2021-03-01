@@ -9,7 +9,18 @@ img {
   width: 200px;
   height: 200px;
   background-color: lightblue;
+  padding: 20px;
+  margin: 20px;
+  border: 20px;
+  border: 5px solid blue;
   /* TODO: Add a margin property */
   /* TODO: Add a padding property */
   /* TODO: Add a border property */
 }
+
+/*.box-setup{
+  padding: 20px;
+  margin: 20px;
+  border: 20px;
+  border: 5px solid blue;
+}*/
